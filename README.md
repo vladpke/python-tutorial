@@ -1,6 +1,6 @@
 # Python 101 - Learning Journey
 
-Welcome! This course is split into 7 modules, each building on the last.
+Welcome! This course is split into 8 modules, each building on the last.
 
 ## How to Use:
 1. Open terminal and navigate to this folder
