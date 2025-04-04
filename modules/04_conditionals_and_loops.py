@@ -2,7 +2,9 @@
 
 age = 20
 
-if age >= 18:
+if age >= 10:
+    print("You're a teenager.")
+elif age >= 18:
     print("You're an adult.")
 else:
     print("You're a minor.")
